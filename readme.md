@@ -25,17 +25,17 @@ This library provides a comprehensive set of functions to manage dates effective
 To install this library, you need to have Node.js and npm installed on your machine. Use the following command to install the library:
 
 ```
-npm install <library-name>
+npm install simple-date-utilities
 ```
 
-(Note: Replace `<library-name>` with the actual name of this library.)
+(Note: Replace `simple-date-utilities` with the actual name of this library.)
 
 ## Usage
 
 Once the library is installed, you can import it into your JavaScript/TypeScript file like so:
 
 ```javascript
-import * as dateUtil from '<library-name>';
+import * as dateUtil from 'simple-date-utilities';
 ```
 
 And then use any of the functions from this library in your code. Here is an example of using the `formatDate()` function:
